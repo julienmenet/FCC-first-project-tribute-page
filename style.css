@@ -1,0 +1,6 @@
+section figure div {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    padding: 100;
+}
