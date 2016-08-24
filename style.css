@@ -4,3 +4,7 @@ section figure div {
     max-width: 100%;
     padding: 100;
 }
+
+.col-md-6 {
+  padding-bottom: 40px;
+}
